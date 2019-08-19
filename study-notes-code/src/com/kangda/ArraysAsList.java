@@ -19,7 +19,7 @@ public class ArraysAsList {
        int[] i ={2,3,4};
 
 //        ArrayList arrayList = new ArrayList(Arrays.asList(a));
-      List list = Arrays.asList(i);
+      List list = Arrays.asList(i); //返回的是ArrayList的一个内部类，要变成ArrayList需要像21行那样
         System.out.println(list.size()); //当为基本数据类型size=1，而传入包装类，Arrays.asList()为3
 
     }
