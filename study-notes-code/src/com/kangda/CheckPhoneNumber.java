@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 
 /*********************************
  * <p> 文件名称: CheckPhoneNumber
- * <p> 系统名称：交易银行系统V2.0
+ * <p> 系统名称：
  * <p> 模块名称：com.kangda
  * <p> 功能说明: 校验手机号码格式
  * <p> 开发人员：kangda28028
