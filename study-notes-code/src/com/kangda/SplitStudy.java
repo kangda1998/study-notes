@@ -12,10 +12,8 @@ package com.kangda;
 public class SplitStudy {
     public static void main(String[] args) {
         String name = "kangda-kk";
-        String[] names = name.split("-");//names[0]=kangda,name[1]=kk
-        System.out.println(
-                names[1]
-        );
+        String[] names = name.split("\\-");//names[0]=kangda,name[1]=kk
+        System.out.println(names[0]+names[1]);
 
     }
 }

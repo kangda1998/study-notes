@@ -3,7 +3,7 @@ package com.kangda;
 import java.util.regex.Pattern;
 
 public class CheckPhoneNumber {
-    public static boolean isPhoneNumber(String phoneNumber) {
+    private static boolean isPhoneNumber(String phoneNumber) {
         boolean flag = false;
         if (phoneNumber.length() == 0) {
             return false;
