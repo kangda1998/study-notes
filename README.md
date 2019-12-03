@@ -12,4 +12,4 @@
 
 4.static适用于工具类，长住内存，访问快，变动小的代码，组装对象不是很适用  
 
-5.mysql的聚簇索引和非聚簇索引：https://www.jianshu.com/p/54c6d5db4fe6
+5.[mysql的聚簇索引和非聚簇索引](https://www.jianshu.com/p/54c6d5db4fe6)
